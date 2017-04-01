@@ -1,0 +1,695 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"c",
+				"goalColor"
+			],
+			[
+				"tree",
+				"tree_model_labels"
+			],
+			[
+				"new",
+				"new_min"
+			],
+			[
+				"return",
+				"returnValue"
+			],
+			[
+				"new_",
+				"new_split_0_set"
+			],
+			[
+				"NUM",
+				"NUM_ATTRIBUTES-1"
+			],
+			[
+				"parent",
+				"parent_position"
+			],
+			[
+				"valid_",
+				"valid_attributes"
+			],
+			[
+				"Read",
+				"ReadDataFile"
+			],
+			[
+				"max_info",
+				"max_info_gain_idx"
+			],
+			[
+				"part",
+				"first_part"
+			],
+			[
+				"na",
+				"attribute_names"
+			],
+			[
+				"num",
+				"NUM_ATTRIBUTES"
+			],
+			[
+				"attri",
+				"attribute_names"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"H",
+				"H"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"conf_",
+				"conf_numsubEntries"
+			],
+			[
+				"EXIT_",
+				"EXIT_SUCCESS"
+			],
+			[
+				"Tw",
+				"TWEETS_PER_TOPIC"
+			],
+			[
+				"top",
+				"topsQueue"
+			],
+			[
+				"red",
+				"readCount"
+			],
+			[
+				"MAX",
+				"MAX_TWEET_CHARS"
+			],
+			[
+				"client",
+				"client_to_atp"
+			],
+			[
+				"atp_",
+				"atp_process_publisher"
+			],
+			[
+				"iS",
+				"iS"
+			],
+			[
+				"vtkPolyData",
+				"vtkPolyDataMapper"
+			],
+			[
+				"Get",
+				"GetOutputPort"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rgbgame.js",
+			"settings":
+			{
+				"buffer_size": 12577,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "StyleSheets/rgbgame_desktop.css",
+			"settings":
+			{
+				"buffer_size": 3497,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "StyleSheets/rgbgame_mobile.css",
+			"settings":
+			{
+				"buffer_size": 3576,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"HTML",
+				"Snippet: html"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game/StyleSheets"
+	],
+	"file_history":
+	[
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game/test/StyleSheets/rgbgame.css",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game/test/fountain.js",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game/test/index.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game/test/rgbgame.js",
+		"/C/Users/joey/GitHubWebPage/index.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game/mobile.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game/desktop.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game/platform_check.js",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game/rgbgame.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game/index.html",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.342/New Text Document.txt",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game/mobile/StyleSheets/rgbgame2.css",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game/desktop/StyleSheets/rgbgame.css",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game/mobile/index.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game/desktop/index.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game/mobile/rgbgame.js",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15 - Color game/RGB Guessing Game/desktop/rgbgame.js",
+		"/C/Users/joey/Documents/GitHub Projects/Image-Processing-Pipeline/Regression Tests/3H/chaz11/stress_test.C",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/desktop/rgbgame.js",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/mobile/index.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/mobile/StyleSheets/rgbgame2.css",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/mobile/rgbgame.js",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/test/fountain.js",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/test/index.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/desktop/StyleSheets/rgbgame.css",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/desktop/index2.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/desktop/FountainAnimation.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/test/rgbgame.js",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/desktop/index.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/mobile/FountainAnimation.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/desktop/save_score_to_database.php",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/mobile/StyleSheets/highscores.css",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/mobile/highscores.php",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/desktop/connectionData.txt",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/desktop/StyleSheets/highscores.css",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/desktop/highscores.php",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/mobile/rgbgame2.css",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/desktop/rgbgame.css",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/mobile/connectionData.txt",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/index.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/rgbgame.css",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/connectionData.txt",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/rgbgame.js",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.963/New Text Document.txt",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 15/RGB Guessing Game/loading.html",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIa0.035/colorGame.css",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Setions 14 Javascript Web Apps/Score Keeper/scorekeeper.js",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Setions 14 Javascript Web Apps/Score Keeper/scorekeeper.css",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Setions 14 Javascript Web Apps/Score Keeper/scorekeeper.html",
+		"/C/Users/joey/Dropbox/Sublime Text/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/joey/Dropbox/Job Applications/CBT_Nuggets/ProjectDue8_23/Part1/README.txt.txt",
+		"/C/Users/joey/Desktop/proj3/joeyproj3.cxx",
+		"/C/Users/joey/Desktop/proj3/proj3.cxx",
+		"/C/Users/joey/GitHubWebPage/joenelsong.github.io/stylesheets/styles.css",
+		"/C/Users/joey/Desktop/CIS410ScientificVisualization/proj3/proj3 (cis415's conflicted copy 2015-10-18).cxx",
+		"/C/Users/joey/Desktop/mc410/proj6B.vtk",
+		"/C/Users/joey/Desktop/CIS410ScientificVisualization/proj3/proj3.cxx",
+		"/C/Users/joey/Desktop/CIS410ScientificVisualization/proj3/joeyproj3.cxx",
+		"/C/Users/joey/Downloads/IDM 6.27 Build 2 Registered (32bit + 64bit Patch) [CrackingPatching]/How to Install.txt",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 11 Javascript exercise/ToDoList/todo.js",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 11 Javascript exercise/ToDoList/todo.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Setions 14 Color Toggle Exercise/bgcolorchanger.js",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Setions 14 Color Toggle Exercise/index.html",
+		"/C/Users/joey/GitHubWebPage/joenelsong.github.io/index.html",
+		"/C/Users/joey/AppData/Local/Temp/fz3temp-3/index.php",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 7 Bootstrap/index.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 6 more CSS/Blog/blog.css",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Setions 14 Javascript Web Apps/Score Keeper/SocreKeeper.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Setions 14 Javascript Web Apps/Score Keeper/SocreKeeper.js",
+		"//ka/FILES/Education/CIS410ScientificVisualization/proj6/mc410/proj6B.cxx",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.235/New Text Document.txt",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.019/New Text Document.txt",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.769/New Text Document.txt",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 8 Javascript/game.html",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 8 Javascript/game.js",
+		"/C/Users/joey/Dropbox/Job Applications/CBT_Nuggets/Quality Assurance Engineer/phone interview.txt",
+		"/C/Users/joey/Desktop/mc410/ok.txt",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 7 Bootstrap/Image Gallery/index.css",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 7 Bootstrap/Image Gallery/index.html",
+		"//ka/FILES/Education/CIS472MachineLearning/HW2/model.txt",
+		"//Ka/files/Education/CIS472MachineLearning/HW 1/OUTPUT_testset.txt",
+		"/C/Users/joey/GitHubWebPage/stylesheets/styles.css",
+		"/C/Users/joey/GitHubWebPage/joenelsong.github.io/README.md",
+		"//Ka/files/Education/CIS 330 (Spring 2015)/Week 9/4B/main3E.C",
+		"/C/Users/joey/Desktop/4B/main3E.C",
+		"//Ka/files/Education/CIS 330 (Spring 2015)/Week 9/3H/3H/hank_image/stress_test.C",
+		"//Ka/files/Education/CIS 330 (Spring 2015)/Week 9/4C/src/main4C.C",
+		"/C/Users/joey/GitHubWebPage/joenelsong.github.io/stylesheets/github-dark.css",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 7 Bootstrap/04_Navbars/navbars.css",
+		"/C/Users/joey/Dropbox/Sublime Text/Data/Packages/User/HTML.sublime-settings",
+		"//ka/FILES/Education/CIS 399 Android App Development (Summer 2015)/Week 7/WeatherAppDemo-WebServiceAndSQLite/app/src/main/java/edu/uoregon/bbird/weatherdemo/Dal.java",
+		"//ka/FILES/Education/CIS 399 Android App Development (Summer 2015)/Week 7/WeatherAppDemo-WebServiceAndSQLite/app/src/main/java/edu/uoregon/bbird/weatherdemo/WeatherSQLiteHelper.java",
+		"//ka/SOFTWARE/Windows/Keys.txt",
+		"//ka/SOFTWARE/Windows/Adobe/KEYS.txt",
+		"//ka/SOFTWARE/Windows/Adobe/Adobe CC Dreamweaver - 2015/Adobe CC Dreamweaver - 2015.ccp",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 6 more CSS/Photo Grid/photogrid.html",
+		"/C/Users/joey/Desktop/sc2 info.txt",
+		"/C/Users/joey/Dropbox/Udemy WebDev Bootcamp 2016/Section 4 Intermediate HTML/pokemondata.txt",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.072/New Text Document.txt",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.149/New Text Document.txt",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.265/New Text Document.txt",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.358/New Text Document.txt",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.563/New Text Document.txt",
+		"/C/Users/joey/Desktop/New Text Document.txt",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.674/New Text Document.txt",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.213/New Text Document.txt",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.535/New Text Document.txt",
+		"/C/Users/joey/Documents/Bitbucket Projects/cryptocurtradebot4btce/Trade Log.txt",
+		"/C/Users/joey/Documents/Bitbucket Projects/cryptocurtradebot4btce/Trade_API/btceapi_python3/README.md",
+		"//ka/FILES/Education/CIS 330 (Spring 2015)/Week 9/4C/src/main4C.C",
+		"//ka/FILES/Education/CIS 330 (Spring 2015)/Week 9/4C/src/Findings.txt",
+		"//ka/FILES/Education/CIS 330 (Spring 2015)/Week 8/Project 3F/source.C",
+		"//ka/FILES/Education/CIS 330 (Spring 2015)/Week 8/Project 3F/sink.C",
+		"//ka/FILES/Education/CIS 330 (Spring 2015)/Week 8/Project 3F/PNMreader.C",
+		"//ka/FILES/Education/CIS410ScientificVisualization/proj3/proj3.cxx",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.207/New Text Document.txt",
+		"/C/Users/joey/workspace/AnalyticSpot_part2/src/test/java/analyticspotcodechalenge/Part2_Test.java",
+		"/C/Users/joey/Dropbox/Job Applications/Analytic Spot/code-challenge/src/test/java/com/analyticspot/PersonLookupTest.java",
+		"/C/Users/joey/Documents/Bitbucket Projects/cryptocurtradebot4btce/Trade_API/BuyTrade.py",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.902/New Text Document.txt",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.046/New Text Document.txt",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.754/New Text Document.txt",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.228/New Text Document.txt",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.993/New Text Document.txt",
+		"/C/Users/joey/AppData/Local/Temp/Rar$DIb0.233/New Text Document.txt",
+		"/C/Users/joey/Dropbox/Job Applications/Analytic Spot/part2.txt",
+		"/C/Users/joey/workspace/AnalyticSpot_part2/README.txt",
+		"/C/Users/joey/workspace/AnalyticSpot_part2/src/main/java/analyticspotcodechalenge/Part2.java"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"opacity",
+			"fountain",
+			"ajax",
+			"squareLis",
+			"height",
+			"fountain",
+			"roundNum",
+			";\n",
+			"3 in a row",
+			"newColors",
+			"winning",
+			"newGame",
+			"strikes",
+			"points = 0",
+			"roundOver",
+			"gameOver",
+			"round",
+			"gameOver",
+			"continue",
+			"winningColors",
+			"stroke",
+			"fountain",
+			"canvas",
+			"playAnimation",
+			"stopAnimation",
+			"stopanimation",
+			"animate",
+			"colorFountain",
+			"winningColors",
+			"color",
+			"topAnimation",
+			"bounce",
+			"stopAnimation",
+			"canvas",
+			"colorFountain",
+			"fountain",
+			"color",
+			"square",
+			"canvas",
+			"feedback",
+			"background",
+			"height",
+			"display",
+			"viewport",
+			"drops",
+			"integrate",
+			"integrate()",
+			"drops.integrate",
+			"color",
+			"strikeCount",
+			"button",
+			"table",
+			"font-size",
+			"playerName",
+			"player",
+			"input",
+			"high",
+			".high",
+			"prompt",
+			"alert",
+			"dialog",
+			"playerName",
+			"padding-bottom",
+			"vh",
+			"vw",
+			"correct",
+			"h1",
+			"media",
+			"right",
+			"col",
+			"\">",
+			"4",
+			"col-lg-4",
+			"adobe",
+			"indesign",
+			"response",
+			"pred",
+			"succ",
+			"something new",
+			"= 0",
+			"XD",
+			"attribute",
+			"to left branch",
+			"tree",
+			"entropy",
+			"{\n",
+			"float",
+			"total",
+			"parent_attribute",
+			"num_no",
+			"data",
+			"total",
+			"tree",
+			"parent_position",
+			"tree",
+			"valid_data",
+			"tree",
+			"valid_data",
+			"line",
+			"debug",
+			"data",
+			"insert(",
+			"attribute_set",
+			"begin",
+			"tree",
+			"idx",
+			"<< ",
+			"infile",
+			"val",
+			"64",
+			"W",
+			"dims",
+			"image",
+			"h",
+			"evaluate",
+			"read",
+			"cf",
+			"viewport",
+			"camera",
+			"title",
+			"table",
+			"state",
+			"timestamp",
+			"strtok_r",
+			"strtok",
+			"strk",
+			"sleep",
+			"strtok"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"vw",
+			"strtok_r",
+			"conf_pub_topics",
+			"numPubEntries",
+			"topic 19",
+			"85",
+			"NUM_TOPICS",
+			"CR_MAXTOPICS",
+			"sub_ConnRec[isub].atp_to_client",
+			"sub_ConnRec[isub].client_to_atp",
+			"connRecPtr->",
+			"connRecPtr->atp_to_client",
+			"connRecPtr->client_to_atp",
+			"pub_ConnRec",
+			"pubConnRec[ipub].atp_to_client",
+			"pubConnRec[ipub].client_to_atp",
+			"connRecPtr->",
+			"connRecPtr->atp_to_client",
+			"connRecPtr->client_to_atp",
+			"pub_connRec[in].client_to_atp",
+			"sub",
+			"topicCountS",
+			"sub_to_atp",
+			"atp_to_sub",
+			"tmpConnRecS"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rgbgame.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5045,
+								5045
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3651.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "StyleSheets/rgbgame_desktop.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								577,
+								545
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "StyleSheets/rgbgame_mobile.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1035,
+								1035
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 924.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rgb_game.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

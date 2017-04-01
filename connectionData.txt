@@ -1,0 +1,12 @@
+<?php
+
+$server = "mysql.joeynelson.net";
+$dbname ="rgbgame";
+$user = "";
+$pass = "";
+$port="3306";
+
+$user2 = "rgbgameguest";
+$pass2 = "guest4916";
+
+?>

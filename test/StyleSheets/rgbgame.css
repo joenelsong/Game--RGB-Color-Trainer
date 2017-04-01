@@ -1,0 +1,172 @@
+body {
+	background-color: #232323;
+	margin: 0;
+	font-family: "Avenir", "Montserrat";
+	font-size: 2vh;
+}
+h1 {
+	text-align: center;
+	line-height: 1.1;
+	color: white;
+	background: #006080;
+	margin: 0;
+	max-height: 15vh;
+	font-weight: normal;
+	text-transform: uppercase;
+	padding: 1vh 0;
+
+}
+.selected {
+	background: #006080;
+	border: none;
+	color: white;
+	font-weight: bold;
+}
+
+.square {
+	background: purple;
+	float: left;
+	border-radius: 12%;
+	transition: background 0.6s;
+	-webkit-transition: background 0.6s;
+	-moz-transition: background 0.6s;
+}
+;.square:hover {
+	;box-shadow: 0.1vh 0.1vh 0.1vh silver;
+;}
+
+.easySquare {
+	width: 45%;
+	height: ;
+	padding-bottom: 45%;
+	margin: 2.5%;
+}
+.medSquare {
+	width: 30%;
+	padding-bottom: 30%;
+	margin: 1.666%;
+}
+.hardSquare {
+	width: 22.5%;
+	padding-bottom: 22.5%;
+	margin: 1.111%;
+}
+
+#container {
+	max-width: 60vh;
+	margin: 0 auto;
+}
+
+#targetRGB {
+	font-size: 200%;
+}
+#stripe {
+	background: white;
+	text-align: center;
+	border: none;
+	padding: 0vh;
+	margin: 0 auto;
+}
+#newGame {
+	font-size: 120%;
+	text-align: left;
+}
+#newGame:hover
+{
+	border-color: gold;
+}
+
+button {
+	vertical-align: middle;
+	text-transform: uppercase;
+	height: 110%;
+	font-weight: 700;
+	color: #006080;
+	letter-spacing: 0.25vh;
+	font-size: inherit;
+	transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	outline: none;
+}
+button:hover {
+	color: white;
+	background: #006080;
+}
+.stripeButtonLabel {
+	height: 100%;
+	font-size: inherit;
+
+}
+.settingsA {
+
+}
+.settingsB {
+
+}
+
+#HUD {
+	color: #a09300;
+	margin: 0 auto;
+	padding: 0;
+	font-size: 200%;
+}
+
+#HUD table {
+	table-layout: fixed;
+	width: 100%;
+	border: 0;
+	padding: 0;
+	border-collapse: collapse;
+}
+#HUD td {
+	width: 33%;
+	padding: 0;
+	margin: 0;
+}
+.label {
+	font-style: bold;
+	font-size: 110%;
+	letter-spacing: 0.3vh;
+}
+
+#feedback {
+	max-width: 47.0%;
+	font-size: 160%;
+	text-align: center;
+	vertical-align: middle;
+	color: white;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#points {
+	vertical-align: middle;
+	color: grey;
+	font-size: 500%;
+	margin-bottom: 0;
+	padding: 0;
+}
+.playerName {
+	vertical-align: middle;
+	font-size: 250%;
+}
+
+input {
+	width: 70%;
+	font-size: 100%;
+}
+
+#database {
+	display: none;
+}
+
+canvas {
+    background: black;
+    display: block;
+    width: 	1;
+    height: 1;
+    padding: 0;
+    margin: 0;
+}
+

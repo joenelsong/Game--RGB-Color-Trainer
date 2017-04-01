@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8"/>
+<head>
+	<title>RGB Guessing Game</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="StyleSheets/rgbgame_mobile.css">
+
+  <!-- First include jquery js  -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+ 
+	<!-- jQuery Form Plugin -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.0/jquery.form.min.js" integrity="sha384-E4RHdVZeKSwHURtFU54q6xQyOpwAhqHxy2xl9NLW9TQIqdNrNh60QVClBRBkjeB8" crossorigin="anonymous"></script>
+
+	<audio id = "hoverForSquares">
+		<source src="Sounds/hover-1.mp3"></source>
+		<source src="Sounds/hover-1.ogg"></source>
+	Your browser isn't invited for super fun audio time.
+	</audio>
+
+</head>
+
+<body>
+
+<h1>
+<span id="targetRGB">(X,X,X)</span>
+</h1>
+
+<div id="stripe">
+	<button id="newGame">New Game</button>
+	<span class="stripeButtonLabel">Tiles: </span>
+	<button id="tilesetting1a" class="settingsA">Easy</button> <button id="tilesetting2a" class="settingsA">Med</button> <button id="tilesetting3a" class="settingsA">Hard</button>
+	<span class="stripeButtonLabel">Colors: </span>
+	<button id="tilesetting1b" class="settingsB">Easy</button> <button id="tilesetting2b" class="settingsB">Med</button> <button id="tilesetting3b" class="settingsB">Hard</button>
+</div>
+<div id="HUD">
+	<table>
+	<tr>
+ 	<td class="playerName" align="left"><span id="playerName"></span></td>
+  <td align="center"><span id="points">0</span></td>
+  <td align="right"><span class="label">High Scores:</span><br><div id="highScoresDisplay"></div></td>
+  </table>
+</div>
+
+<div id="feedback">Pick the correct color!</div>
+
+<canvas id='canvasDisplay' width='1' height='1'> </canvas>
+
+<div id="container">
+		<!-- 16 Squares -->
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+		<div class="square"></div>
+</div>
+
+<div id="myResultsDiv"></div>
+
+	<!--<form id="database" action="save_score_to_database.php" method="post"> -->
+	<form id="database" name= "database" action="save_score_to_database.php" method="post">
+		<input id="dbFormName" type="text" name="score_name">Enter name<br>
+		<input id="dbFormScore" type="number" name="score_score">Enter Score<br>
+		<input type="button" id="submit" value="Submit" onclick="myFunction()">
+		<!-- <input type="submit" value="submit"> -->
+	</form>
+
+<!-- My Javascript -->
+<script type="text/javascript" src="rgbgame.js"></script>
+</body>
+</html>
